@@ -4,7 +4,6 @@
 `docker-compose up -d` :--detach starts the containers in the background and leaves them running.
 
  ### to stop the containers
-`docker-compose down`  : to stop container
-
+`docker-compose down`  
 
 
